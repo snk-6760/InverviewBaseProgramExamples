@@ -25,6 +25,6 @@ public class FindDuplicateWord {
 		for (String x : set) {
 			System.out.println(x);
 		}
-		
+		system.out.println("shiva");
 	}
 }
